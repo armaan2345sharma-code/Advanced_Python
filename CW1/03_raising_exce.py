@@ -4,5 +4,6 @@ def increment(num):
     except:
         raise ValueError("Not work ")
     
-a=in
+a= increment('dfkj')
+print(a)
     
