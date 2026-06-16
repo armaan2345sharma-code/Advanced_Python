@@ -6,3 +6,4 @@ a=[1,2,3,4,5,6,8,9,7,]
 #print(b)
 list1=[item for item in a if item%2==0]#list comprehension 
 print(list1)
+b=[1,1,7,7,]
